@@ -604,7 +604,7 @@
     "description": "rent cheap cabs to avoid traffic",
     "intents": [
       {
-        "name": "book_taxi",
+        "name": "find_taxi",
         "description": "book taxis to travel between places",
         "is_transactional": true,
         "required_slots": [],
